@@ -41,7 +41,7 @@
     "jquery.scrollto": "2.1.2",
     "js-cookie": "2.2.0",
     "jwt-decode": "^2.2.0",
-    "moment": "2.20.1",
+    "moment": "2.29.4",
     "moment-timezone": "0.5.14",
     "picturefill": "3.0.2",
     "popper.js": "1.12.9",
